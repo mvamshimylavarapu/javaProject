@@ -40,13 +40,13 @@ h6{text-align:left}
 
     </head>
     <body>
-        <div class="ex"><h1><p>LogIn Application</p>
+        <div class="ex"><h1><p>Form Code Generator</p>
 </h1><br>
     <br>
 
 <h6><a href="home.jsp">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="reg.jsp">Registration</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="login.jsp">Login</a><tr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="login.jsp">Login App</a><tr>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="aboutus.html">AboutUs</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="signout.jsp">signout</a>s</h6>
  <br>
      <br><%
