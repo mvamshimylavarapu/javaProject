@@ -13,7 +13,7 @@ package web;
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>JSP Page </title>
          <style type="text/css">
 
 .ex
@@ -40,7 +40,7 @@ h6{text-align:left}
 
     </head>
     <body>
-        <div class="ex"><h1><p>FORM CODE GENERATOR</p>
+        <div class="ex"><h1><p>FORM CODE GENERATOR Application</p>
 </h1><br>
     <br>
 
