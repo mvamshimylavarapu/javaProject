@@ -40,7 +40,7 @@ h6{text-align:left}
 
     </head>
     <body>
-        <div class="ex"><h1><p>FORM CODE GENERATOR Application</p>
+        <div class="ex"><h1><p>LogIn Application</p>
 </h1><br>
     <br>
 
